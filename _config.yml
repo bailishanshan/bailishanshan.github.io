@@ -16,14 +16,14 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 80B3FF #BDD962 80B3FF
+  primary-rgb: "128,179,255" #"24,288,156" #"128,179,255"
+  secondary: FD6E8A#2c3e50
+  secondary-dark:  A2122F#668291 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: 百里闪闪文化
   location: 地址
   social: 联系我们
   credits: <a href="http://www.macundexiatian.com">马村的夏天</a>
