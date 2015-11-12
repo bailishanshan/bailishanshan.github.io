@@ -26,12 +26,10 @@ footer:
   copyright: Dr. Henry Jekyll
   location: 北京
   social: 联系我们
-  credits: 马村的夏天
+  credits: <a href="http://www.macundexiatian.com">马村的夏天</a>
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: 马村的夏天
-    url: http://www.macundexiatian.com
   - title: facebook
     url: https://www.facebook.com/blss1/?ref=bookmarks
   - title: weibo
