@@ -7,7 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: # 马村的夏天
+description: 
+# 马村的夏天
 * 让记忆更简单
 * 实验一下能不能写点文章什么的.
 
