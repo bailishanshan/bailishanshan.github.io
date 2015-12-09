@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-12-09
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: Aug. 2015
 client: Start Bootstrap
 category: Web Development
-description:  马村的夏天 * 让记忆更简单 * 实验一下能不能写点文章什么的.
+description:  <embed src="http://player.youku.com/player.php/sid/XMTM0ODA3MTE4MA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ---
