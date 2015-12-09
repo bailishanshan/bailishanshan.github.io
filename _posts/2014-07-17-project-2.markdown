@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2015-06-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
+project-date: Jun 2015
 client: Start Bootstrap
-category: Web Development
+category: 百里闪闪字幕组
 description: <img width="530" height="705" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/zimuzu.png">
 
 ---
