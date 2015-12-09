@@ -7,7 +7,7 @@ alt: image-alt
 project-date: Jun 2015
 client: Start Bootstrap
 category: 招聘
-description: <div class="text-center"><img id="img-centered" width="1066" height="800" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/resume.jpg"></div>
+description: <div class="text-center"><img class="img-centered" width="714" height="534" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/resume.jpg"></div>
 
 
 ---
