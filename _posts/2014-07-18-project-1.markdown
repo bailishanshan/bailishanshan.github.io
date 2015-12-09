@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Aug. 2015
 client: Start Bootstrap
 category: 马村
-description:  <embed src="http://player.youku.com/player.php/sid/XMTM0ODA3MTE4MA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+description:  <iframe height=498 width=510 src="http://player.youku.com/embed/XMTM0ODA3MTE4MA==" frameborder=0 allowfullscreen></iframe>
 
 ---
+class="img-responsive img-centered" alt="{{ post.alt }}"

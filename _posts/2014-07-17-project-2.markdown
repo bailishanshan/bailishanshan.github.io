@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Jun 2015
 client: Start Bootstrap
 category: 百里闪闪字幕组
-description: <img width="530" height="705" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/zimuzu.png">
+description: <img width="530" height="705" class="img-responsive img-centered" alt="{{ post.alt }}" src="http://openmindclub.qiniudn.com/Yixuan/image/zimuzu.png">
+
 
 ---
