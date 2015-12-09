@@ -6,7 +6,7 @@ img: cabin.png
 alt: image-alt
 project-date: Aug. 2015
 client: Start Bootstrap
-category: 马村的夏天
+category: 马村
 description:  <embed src="http://player.youku.com/player.php/sid/XMTM0ODA3MTE4MA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ---
