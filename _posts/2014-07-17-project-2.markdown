@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <img width="60" height="55" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/zimuzu.png">
+description: <img width="1060" height="1410" alt="A photo of Subtitle Group"  src="http://openmindclub.qiniudn.com/Yixuan/image/zimuzu.png">
 
 ---
